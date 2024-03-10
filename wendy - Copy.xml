@@ -1,0 +1,1176 @@
+<?xml version="1.0" standalone="yes"?>
+<ElectraData>
+  <Invoices Id="0">
+    <StartDate>2007-08-18T00:00:00+03:00</StartDate>
+    <EndDate>2007-12-19T00:00:00+02:00</EndDate>
+    <Consumption>76</Consumption>
+    <WaterFee>79.04</WaterFee>
+    <WasteFee>101.84</WasteFee>
+    <BasicFee>11.24</BasicFee>
+    <Balanced>true</Balanced>
+  </Invoices>
+  <Invoices Id="1">
+    <StartDate>2007-12-20T00:00:00+02:00</StartDate>
+    <EndDate>2007-12-31T00:00:00+02:00</EndDate>
+    <Consumption>91</Consumption>
+    <WaterFee>18.72</WaterFee>
+    <WasteFee>24.12</WasteFee>
+    <BasicFee>1.09</BasicFee>
+    <Estimation>18</Estimation>
+  </Invoices>
+  <Invoices Id="6">
+    <StartDate>2008-01-01T12:46:39+02:00</StartDate>
+    <EndDate>2008-03-31T12:46:39+03:00</EndDate>
+    <Consumption>140</Consumption>
+    <WaterFee>78.44</WaterFee>
+    <WasteFee>100.64</WasteFee>
+    <BasicFee>8.67</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>74</Estimation>
+  </Invoices>
+  <Invoices Id="8">
+    <StartDate>2007-12-20T18:39:13+02:00</StartDate>
+    <EndDate>2008-04-30T18:39:13+03:00</EndDate>
+    <Consumption>151</Consumption>
+    <WaterFee>79.36</WaterFee>
+    <WasteFee>101.86</WasteFee>
+    <BasicFee>12.61</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="9">
+    <StartDate>2008-05-01T18:41:03+03:00</StartDate>
+    <EndDate>2008-06-30T18:41:03+03:00</EndDate>
+    <Consumption>199</Consumption>
+    <WaterFee>38.16</WaterFee>
+    <WasteFee>48.96</WasteFee>
+    <BasicFee>5.81</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>36</Estimation>
+  </Invoices>
+  <Invoices Id="10">
+    <StartDate>2008-07-01T18:26:24+03:00</StartDate>
+    <EndDate>2008-09-30T18:26:24+03:00</EndDate>
+    <Consumption>240</Consumption>
+    <WaterFee>57.24</WaterFee>
+    <WasteFee>73.44</WasteFee>
+    <BasicFee>8.76</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>54</Estimation>
+  </Invoices>
+  <Invoices Id="11">
+    <StartDate>2008-10-01T15:38:58+03:00</StartDate>
+    <EndDate>2008-12-31T15:38:58+02:00</EndDate>
+    <Consumption>290</Consumption>
+    <WaterFee>57.24</WaterFee>
+    <WasteFee>73.44</WasteFee>
+    <BasicFee>8.76</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>54</Estimation>
+  </Invoices>
+  <Invoices Id="12">
+    <StartDate>2009-01-01T14:50:17+02:00</StartDate>
+    <EndDate>2009-03-31T14:50:17+03:00</EndDate>
+    <Consumption>337</Consumption>
+    <WaterFee>57.24</WaterFee>
+    <WasteFee>73.14</WasteFee>
+    <BasicFee>8.74</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>53</Estimation>
+  </Invoices>
+  <Invoices Id="13">
+    <StartDate>2008-05-01T22:44:49+03:00</StartDate>
+    <EndDate>2009-04-30T22:44:49+03:00</EndDate>
+    <Consumption>364</Consumption>
+    <WaterFee>227.18</WaterFee>
+    <WasteFee>291.08</WasteFee>
+    <BasicFee>34.99</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="14">
+    <StartDate>2009-05-01T22:52:51+03:00</StartDate>
+    <EndDate>2009-06-30T22:52:51+03:00</EndDate>
+    <Consumption>399</Consumption>
+    <WaterFee>38.88</WaterFee>
+    <WasteFee>49.68</WasteFee>
+    <BasicFee>5.93</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>36</Estimation>
+  </Invoices>
+  <Invoices Id="15">
+    <StartDate>2009-07-01T17:54:44+03:00</StartDate>
+    <EndDate>2009-09-30T17:54:44+03:00</EndDate>
+    <Consumption>443</Consumption>
+    <WaterFee>58.32</WaterFee>
+    <WasteFee>74.52</WasteFee>
+    <BasicFee>8.94</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>54</Estimation>
+  </Invoices>
+  <Invoices Id="16">
+    <StartDate>2009-10-01T17:35:43+03:00</StartDate>
+    <EndDate>2009-12-30T17:35:43+02:00</EndDate>
+    <Consumption>495</Consumption>
+    <WaterFee>58.32</WaterFee>
+    <WasteFee>74.52</WasteFee>
+    <BasicFee>8.94</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>54</Estimation>
+  </Invoices>
+  <Invoices Id="17">
+    <StartDate>2009-05-01T18:42:56+03:00</StartDate>
+    <EndDate>2009-12-31T18:42:56+02:00</EndDate>
+    <Consumption>509</Consumption>
+    <WaterFee>156.6</WaterFee>
+    <WasteFee>200.1</WasteFee>
+    <BasicFee>23.8</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="18">
+    <StartDate>2010-01-01T19:14:58+02:00</StartDate>
+    <EndDate>2010-03-31T19:14:58+03:00</EndDate>
+    <Consumption>584</Consumption>
+    <WaterFee>56.18</WaterFee>
+    <WasteFee>71.02</WasteFee>
+    <BasicFee>8.46</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>53</Estimation>
+  </Invoices>
+  <Invoices Id="19">
+    <StartDate>2010-04-01T20:42:30+03:00</StartDate>
+    <EndDate>2010-06-30T20:42:30+03:00</EndDate>
+    <Consumption>600</Consumption>
+    <WaterFee>57.24</WaterFee>
+    <WasteFee>72.36</WasteFee>
+    <BasicFee>8.46</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>54</Estimation>
+  </Invoices>
+  <Invoices Id="21">
+    <StartDate>2010-07-01T17:33:41+03:00</StartDate>
+    <EndDate>2010-09-30T17:33:41+03:00</EndDate>
+    <Consumption>651</Consumption>
+    <WaterFee>57.24</WaterFee>
+    <WasteFee>72.36</WasteFee>
+    <BasicFee>10.62</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>54</Estimation>
+  </Invoices>
+  <Invoices Id="22">
+    <StartDate>2010-01-01T13:23:18+02:00</StartDate>
+    <EndDate>2010-10-15T13:23:18+03:00</EndDate>
+    <Consumption>667</Consumption>
+    <WaterFee>167.48</WaterFee>
+    <WasteFee>211.72</WasteFee>
+    <BasicFee>29.31</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="23">
+    <StartDate>2010-10-16T13:53:09+03:00</StartDate>
+    <EndDate>2010-12-31T13:53:09+02:00</EndDate>
+    <Consumption>694</Consumption>
+    <WaterFee>44.52</WaterFee>
+    <WasteFee>56.28</WasteFee>
+    <BasicFee>8.97</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>42</Estimation>
+  </Invoices>
+  <Invoices Id="24">
+    <StartDate>2011-01-01T12:39:50+02:00</StartDate>
+    <EndDate>2011-03-31T12:39:50+03:00</EndDate>
+    <Consumption>744</Consumption>
+    <WaterFee>51.94</WaterFee>
+    <WasteFee>65.17</WasteFee>
+    <BasicFee>17.46</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>49</Estimation>
+  </Invoices>
+  <Invoices Id="25">
+    <StartDate>2010-10-15T20:10:43+03:00</StartDate>
+    <EndDate>2011-05-15T20:10:43+03:00</EndDate>
+    <Consumption>790</Consumption>
+    <WaterFee>130.38</WaterFee>
+    <WasteFee>164.04</WasteFee>
+    <BasicFee>35.16</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="26">
+    <StartDate>2011-05-16T20:22:31+03:00</StartDate>
+    <EndDate>2011-06-30T20:22:31+03:00</EndDate>
+    <Consumption>811</Consumption>
+    <WaterFee>28.62</WaterFee>
+    <WasteFee>35.91</WasteFee>
+    <BasicFee>8.92</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>27</Estimation>
+  </Invoices>
+  <Invoices Id="27">
+    <StartDate>2011-07-01T18:19:26+03:00</StartDate>
+    <EndDate>2011-09-30T18:19:26+03:00</EndDate>
+    <Consumption>857</Consumption>
+    <WaterFee>56.18</WaterFee>
+    <WasteFee>70.49</WasteFee>
+    <BasicFee>17.46</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>53</Estimation>
+  </Invoices>
+  <Invoices Id="28">
+    <StartDate>2011-10-01T19:41:48+03:00</StartDate>
+    <EndDate>2011-12-31T19:41:48+02:00</EndDate>
+    <Consumption>904</Consumption>
+    <WaterFee>56.18</WaterFee>
+    <WasteFee>70.49</WasteFee>
+    <BasicFee>17.46</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>53</Estimation>
+  </Invoices>
+  <Invoices Id="29">
+    <StartDate>2012-01-01T19:47:10+02:00</StartDate>
+    <EndDate>2012-03-31T19:47:10+03:00</EndDate>
+    <Consumption>957</Consumption>
+    <WaterFee>54.08</WaterFee>
+    <WasteFee>66.04</WasteFee>
+    <BasicFee>26.82</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>52</Estimation>
+  </Invoices>
+  <Invoices Id="30">
+    <StartDate>2011-05-16T18:09:18+03:00</StartDate>
+    <EndDate>2012-05-31T18:09:18+03:00</EndDate>
+    <Consumption>1009</Consumption>
+    <WaterFee>230.4</WaterFee>
+    <WasteFee>286.05</WasteFee>
+    <BasicFee>88.54</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="32">
+    <StartDate>2012-06-01T18:28:53+03:00</StartDate>
+    <EndDate>2012-06-30T18:28:53+03:00</EndDate>
+    <Consumption>1015</Consumption>
+    <WaterFee>17.68</WaterFee>
+    <WasteFee>21.59</WasteFee>
+    <BasicFee>8.94</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>17</Estimation>
+  </Invoices>
+  <Invoices Id="33">
+    <StartDate>2012-07-01T17:01:41+03:00</StartDate>
+    <EndDate>2012-09-30T17:01:41+03:00</EndDate>
+    <Consumption>1062</Consumption>
+    <WaterFee>55.12</WaterFee>
+    <WasteFee>67.31</WasteFee>
+    <BasicFee>26.82</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>53</Estimation>
+  </Invoices>
+  <Invoices Id="34">
+    <StartDate>2012-10-01T17:31:17+03:00</StartDate>
+    <EndDate>2012-12-31T17:31:17+02:00</EndDate>
+    <Consumption>1102</Consumption>
+    <WaterFee>55.12</WaterFee>
+    <WasteFee>67.31</WasteFee>
+    <BasicFee>26.82</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>53</Estimation>
+  </Invoices>
+  <Invoices Id="35">
+    <StartDate>2013-01-01T20:31:05+02:00</StartDate>
+    <EndDate>2013-03-31T20:31:05+03:00</EndDate>
+    <Consumption>1153</Consumption>
+    <WaterFee>52.52</WaterFee>
+    <WasteFee>65.52</WasteFee>
+    <BasicFee>30.87</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>52</Estimation>
+  </Invoices>
+  <Invoices Id="36">
+    <StartDate>2012-05-31T08:49:29+03:00</StartDate>
+    <EndDate>2013-05-01T08:49:29+03:00</EndDate>
+    <Consumption>1189</Consumption>
+    <WaterFee>185.25</WaterFee>
+    <WasteFee>227.95</WasteFee>
+    <BasicFee>104.08</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="38">
+    <StartDate>2013-05-02T09:00:06+03:00</StartDate>
+    <EndDate>2013-06-30T09:00:06+03:00</EndDate>
+    <Consumption>1209</Consumption>
+    <WaterFee>32.32</WaterFee>
+    <WasteFee>40.32</WasteFee>
+    <BasicFee>20.58</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>32</Estimation>
+  </Invoices>
+  <Invoices Id="39">
+    <StartDate>2013-07-01T10:55:44+03:00</StartDate>
+    <EndDate>2013-09-30T10:55:44+03:00</EndDate>
+    <Consumption>1256</Consumption>
+    <WaterFee>49.49</WaterFee>
+    <WasteFee>61.74</WasteFee>
+    <BasicFee>30.875</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>49</Estimation>
+  </Invoices>
+  <Invoices Id="40">
+    <StartDate>2013-10-01T17:59:58+03:00</StartDate>
+    <EndDate>2013-12-31T17:59:58+02:00</EndDate>
+    <Consumption>1290</Consumption>
+    <WaterFee>49.49</WaterFee>
+    <WasteFee>61.74</WasteFee>
+    <BasicFee>30.87</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>49</Estimation>
+  </Invoices>
+  <Invoices Id="41">
+    <StartDate>2014-01-01T10:51:25+02:00</StartDate>
+    <EndDate>2014-03-31T10:51:25+03:00</EndDate>
+    <Consumption>1378</Consumption>
+    <WaterFee>51.45</WaterFee>
+    <WasteFee>64.19</WasteFee>
+    <BasicFee>32.22</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>49</Estimation>
+  </Invoices>
+  <Invoices Id="42">
+    <StartDate>2014-04-01T23:05:05+03:00</StartDate>
+    <EndDate>2014-06-30T23:05:05+03:00</EndDate>
+    <Consumption>1440</Consumption>
+    <WaterFee>51.45</WaterFee>
+    <WasteFee>64.19</WasteFee>
+    <BasicFee>32.22</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>49</Estimation>
+  </Invoices>
+  <Invoices Id="43">
+    <StartDate>2014-05-02T18:43:24+03:00</StartDate>
+    <EndDate>2014-08-16T18:43:24+03:00</EndDate>
+    <Consumption>1470</Consumption>
+    <WaterFee>289.25</WaterFee>
+    <WasteFee>360.86</WasteFee>
+    <BasicFee>163.23</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="44">
+    <StartDate>2014-08-17T18:46:19+03:00</StartDate>
+    <EndDate>2014-09-30T18:46:19+03:00</EndDate>
+    <Consumption>1490</Consumption>
+    <WaterFee>28.35</WaterFee>
+    <WasteFee>35.37</WasteFee>
+    <BasicFee>16.11</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>27</Estimation>
+  </Invoices>
+  <Invoices Id="45">
+    <StartDate>2014-10-01T17:57:34+03:00</StartDate>
+    <EndDate>2014-12-31T17:57:34+02:00</EndDate>
+    <Consumption>1549</Consumption>
+    <WaterFee>57.75</WaterFee>
+    <WasteFee>72.05</WasteFee>
+    <BasicFee>32.22</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>55</Estimation>
+  </Invoices>
+  <Invoices Id="46">
+    <StartDate>2015-01-01T08:10:51+02:00</StartDate>
+    <EndDate>2015-03-31T08:10:51+03:00</EndDate>
+    <Consumption>1602</Consumption>
+    <WaterFee>58.32</WaterFee>
+    <WasteFee>72.36</WasteFee>
+    <BasicFee>33.03</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>54</Estimation>
+  </Invoices>
+  <Invoices Id="47">
+    <StartDate>2015-04-01T19:10:25+03:00</StartDate>
+    <EndDate>2015-06-30T19:10:25+03:00</EndDate>
+    <Consumption>1661</Consumption>
+    <WaterFee>58.32</WaterFee>
+    <WasteFee>72.36</WasteFee>
+    <BasicFee>33.03</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>54</Estimation>
+  </Invoices>
+  <Invoices Id="48">
+    <StartDate>2014-08-17T16:48:55+03:00</StartDate>
+    <EndDate>2015-08-16T16:48:55+03:00</EndDate>
+    <Consumption>1698</Consumption>
+    <WaterFee>243.69</WaterFee>
+    <WasteFee>302.97</WasteFee>
+    <BasicFee>131.27</BasicFee>
+    <Balanced>true</Balanced>
+    <Estimation>0</Estimation>
+  </Invoices>
+  <Invoices Id="49">
+    <StartDate>2015-08-17T17:02:57+03:00</StartDate>
+    <EndDate>2015-09-30T17:02:57+03:00</EndDate>
+    <Consumption>1718</Consumption>
+    <WaterFee>30.24</WaterFee>
+    <WasteFee>37.52</WasteFee>
+    <BasicFee>16.52</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>28</Estimation>
+  </Invoices>
+  <Invoices Id="50">
+    <StartDate>2015-10-01T17:06:44+03:00</StartDate>
+    <EndDate>2015-12-31T17:06:44+02:00</EndDate>
+    <Consumption>1779</Consumption>
+    <WaterFee>61.56</WaterFee>
+    <WasteFee>76.38</WasteFee>
+    <BasicFee>33.03</BasicFee>
+    <Balanced>false</Balanced>
+    <Estimation>57</Estimation>
+  </Invoices>
+  <Users Id="0">
+    <User>Bukovski</User>
+    <Consumption>28</Consumption>
+    <WaterFee>29.12</WaterFee>
+    <WasteFee>37.52</WasteFee>
+    <BasicFee>5.62</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="0">
+    <User>Nykänen</User>
+    <Consumption>48</Consumption>
+    <WaterFee>49.92</WaterFee>
+    <WasteFee>64.32</WasteFee>
+    <BasicFee>5.62</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="1">
+    <User>Bukovski</User>
+    <Consumption>34</Consumption>
+    <WaterFee>8.32</WaterFee>
+    <WasteFee>10.72</WasteFee>
+    <BasicFee>0.55</BasicFee>
+  </Users>
+  <Users Id="1">
+    <User>Nykänen</User>
+    <Consumption>57</Consumption>
+    <WaterFee>10.4</WaterFee>
+    <WasteFee>13.4</WasteFee>
+    <BasicFee>0.54</BasicFee>
+  </Users>
+  <Users Id="6">
+    <User>Bukovski</User>
+    <Consumption>55</Consumption>
+    <WaterFee>33.92</WaterFee>
+    <WasteFee>43.52</WasteFee>
+    <BasicFee>4.33</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="6">
+    <User>Nykänen</User>
+    <Consumption>85</Consumption>
+    <WaterFee>44.52</WaterFee>
+    <WasteFee>57.12</WasteFee>
+    <BasicFee>4.34</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="8">
+    <User>Bukovski</User>
+    <Consumption>60</Consumption>
+    <WaterFee>33.87</WaterFee>
+    <WasteFee>43.47</WasteFee>
+    <BasicFee>6.3</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="8">
+    <User>Nykänen</User>
+    <Consumption>91</Consumption>
+    <WaterFee>45.49</WaterFee>
+    <WasteFee>58.39</WasteFee>
+    <BasicFee>6.31</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="9">
+    <User>Bukovski</User>
+    <Consumption>75</Consumption>
+    <WaterFee>11.66</WaterFee>
+    <WasteFee>14.96</WasteFee>
+    <BasicFee>2.91</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="9">
+    <User>Nykänen</User>
+    <Consumption>124</Consumption>
+    <WaterFee>26.5</WaterFee>
+    <WasteFee>34</WasteFee>
+    <BasicFee>2.9</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="10">
+    <User>Bukovski</User>
+    <Consumption>92</Consumption>
+    <WaterFee>23.32</WaterFee>
+    <WasteFee>29.92</WasteFee>
+    <BasicFee>4.38</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="10">
+    <User>Nykänen</User>
+    <Consumption>148</Consumption>
+    <WaterFee>33.92</WaterFee>
+    <WasteFee>43.52</WasteFee>
+    <BasicFee>4.38</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="11">
+    <User>Bukovski</User>
+    <Consumption>117</Consumption>
+    <WaterFee>28.62</WaterFee>
+    <WasteFee>36.72</WasteFee>
+    <BasicFee>4.38</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="11">
+    <User>Nykänen</User>
+    <Consumption>173</Consumption>
+    <WaterFee>28.62</WaterFee>
+    <WasteFee>36.72</WasteFee>
+    <BasicFee>4.38</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="12">
+    <User>Bukovski</User>
+    <Consumption>140</Consumption>
+    <WaterFee>28.08</WaterFee>
+    <WasteFee>35.88</WasteFee>
+    <BasicFee>4.37</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="12">
+    <User>Nykänen</User>
+    <Consumption>197</Consumption>
+    <WaterFee>29.16</WaterFee>
+    <WasteFee>37.26</WasteFee>
+    <BasicFee>4.37</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="13">
+    <User>Bukovski</User>
+    <Consumption>152</Consumption>
+    <WaterFee>98.18</WaterFee>
+    <WasteFee>125.78</WasteFee>
+    <BasicFee>17.5</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="13">
+    <User>Nykänen</User>
+    <Consumption>212</Consumption>
+    <WaterFee>129</WaterFee>
+    <WasteFee>165.29</WasteFee>
+    <BasicFee>17.5</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="14">
+    <User>Bukovski</User>
+    <Consumption>167</Consumption>
+    <WaterFee>16.2</WaterFee>
+    <WasteFee>20.7</WasteFee>
+    <BasicFee>2.96</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="14">
+    <User>Nykänen</User>
+    <Consumption>232</Consumption>
+    <WaterFee>22.68</WaterFee>
+    <WasteFee>28.98</WasteFee>
+    <BasicFee>2.97</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="15">
+    <User>Bukovski</User>
+    <Consumption>187</Consumption>
+    <WaterFee>27</WaterFee>
+    <WasteFee>34.5</WasteFee>
+    <BasicFee>4.47</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="15">
+    <User>Nykänen</User>
+    <Consumption>256</Consumption>
+    <WaterFee>31.32</WaterFee>
+    <WasteFee>40.02</WasteFee>
+    <BasicFee>4.47</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="16">
+    <User>Bukovski</User>
+    <Consumption>208</Consumption>
+    <WaterFee>23.76</WaterFee>
+    <WasteFee>30.36</WasteFee>
+    <BasicFee>4.47</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="16">
+    <User>Nykänen</User>
+    <Consumption>287</Consumption>
+    <WaterFee>34.56</WaterFee>
+    <WasteFee>44.16</WasteFee>
+    <BasicFee>4.47</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="17">
+    <User>Bukovski</User>
+    <Consumption>218</Consumption>
+    <WaterFee>71.28</WaterFee>
+    <WasteFee>91.08</WasteFee>
+    <BasicFee>11.9</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="17">
+    <User>Nykänen</User>
+    <Consumption>291</Consumption>
+    <WaterFee>85.32</WaterFee>
+    <WasteFee>109.02</WasteFee>
+    <BasicFee>11.9</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="18">
+    <User>Bukovski</User>
+    <Consumption>249</Consumption>
+    <WaterFee>23.32</WaterFee>
+    <WasteFee>29.48</WasteFee>
+    <BasicFee>4.23</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="18">
+    <User>Nykänen</User>
+    <Consumption>335</Consumption>
+    <WaterFee>32.86</WaterFee>
+    <WasteFee>41.54</WasteFee>
+    <BasicFee>4.23</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="19">
+    <User>Bukovski</User>
+    <Consumption>256</Consumption>
+    <WaterFee>25.44</WaterFee>
+    <WasteFee>32.16</WasteFee>
+    <BasicFee>4.23</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="19">
+    <User>Nykänen</User>
+    <Consumption>344</Consumption>
+    <WaterFee>31.8</WaterFee>
+    <WasteFee>40.2</WasteFee>
+    <BasicFee>4.23</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="21">
+    <User>Bukovski</User>
+    <Consumption>282</Consumption>
+    <WaterFee>29.68</WaterFee>
+    <WasteFee>37.52</WasteFee>
+    <BasicFee>5.31</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="21">
+    <User>Nykänen</User>
+    <Consumption>369</Consumption>
+    <WaterFee>27.56</WaterFee>
+    <WasteFee>34.84</WasteFee>
+    <BasicFee>5.31</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="22">
+    <User>Bukovski</User>
+    <Consumption>289</Consumption>
+    <WaterFee>75.26</WaterFee>
+    <WasteFee>95.14</WasteFee>
+    <BasicFee>14.66</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="22">
+    <User>Nykänen</User>
+    <Consumption>378</Consumption>
+    <WaterFee>92.22</WaterFee>
+    <WasteFee>116.58</WasteFee>
+    <BasicFee>14.65</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="23">
+    <User>Bukovski</User>
+    <Consumption>303</Consumption>
+    <WaterFee>23.32</WaterFee>
+    <WasteFee>29.48</WasteFee>
+    <BasicFee>4.49</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="23">
+    <User>Nykänen</User>
+    <Consumption>391</Consumption>
+    <WaterFee>21.2</WaterFee>
+    <WasteFee>26.8</WasteFee>
+    <BasicFee>4.48</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="24">
+    <User>Bukovski</User>
+    <Consumption>326</Consumption>
+    <WaterFee>24.38</WaterFee>
+    <WasteFee>30.59</WasteFee>
+    <BasicFee>8.74</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="24">
+    <User>Nykänen</User>
+    <Consumption>418</Consumption>
+    <WaterFee>27.56</WaterFee>
+    <WasteFee>34.58</WasteFee>
+    <BasicFee>8.73</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="25">
+    <User>Bukovski</User>
+    <Consumption>349</Consumption>
+    <WaterFee>63.6</WaterFee>
+    <WasteFee>80.12</WasteFee>
+    <BasicFee>17.58</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="25">
+    <User>Nykänen</User>
+    <Consumption>441</Consumption>
+    <WaterFee>66.78</WaterFee>
+    <WasteFee>83.92</WasteFee>
+    <BasicFee>17.58</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="26">
+    <User>Bukovski</User>
+    <Consumption>359</Consumption>
+    <WaterFee>13.78</WaterFee>
+    <WasteFee>17.29</WasteFee>
+    <BasicFee>4.46</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="26">
+    <User>Nykänen</User>
+    <Consumption>452</Consumption>
+    <WaterFee>14.84</WaterFee>
+    <WasteFee>18.62</WasteFee>
+    <BasicFee>4.46</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="27">
+    <User>Bukovski</User>
+    <Consumption>383</Consumption>
+    <WaterFee>29.68</WaterFee>
+    <WasteFee>37.24</WasteFee>
+    <BasicFee>8.73</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="27">
+    <User>Nykänen</User>
+    <Consumption>474</Consumption>
+    <WaterFee>26.5</WaterFee>
+    <WasteFee>33.25</WasteFee>
+    <BasicFee>8.73</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="28">
+    <User>Bukovski</User>
+    <Consumption>404</Consumption>
+    <WaterFee>25.44</WaterFee>
+    <WasteFee>31.92</WasteFee>
+    <BasicFee>8.73</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="28">
+    <User>Nykänen</User>
+    <Consumption>500</Consumption>
+    <WaterFee>30.74</WaterFee>
+    <WasteFee>38.57</WasteFee>
+    <BasicFee>8.73</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="29">
+    <User>Bukovski</User>
+    <Consumption>428</Consumption>
+    <WaterFee>24.96</WaterFee>
+    <WasteFee>30.48</WasteFee>
+    <BasicFee>13.41</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="29">
+    <User>Nykänen</User>
+    <Consumption>529</Consumption>
+    <WaterFee>29.12</WaterFee>
+    <WasteFee>35.56</WasteFee>
+    <BasicFee>13.41</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="30">
+    <User>Bukovski</User>
+    <Consumption>454</Consumption>
+    <WaterFee>110.48</WaterFee>
+    <WasteFee>137.19</WasteFee>
+    <BasicFee>44.27</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="30">
+    <User>Nykänen</User>
+    <Consumption>555</Consumption>
+    <WaterFee>119.92</WaterFee>
+    <WasteFee>148.86</WasteFee>
+    <BasicFee>44.27</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="32">
+    <User>Bukovski</User>
+    <Consumption>457</Consumption>
+    <WaterFee>8.84</WaterFee>
+    <WasteFee>10.8</WasteFee>
+    <BasicFee>4.47</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="32">
+    <User>Nykänen</User>
+    <Consumption>558</Consumption>
+    <WaterFee>8.84</WaterFee>
+    <WasteFee>10.79</WasteFee>
+    <BasicFee>4.47</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="33">
+    <User>Bukovski</User>
+    <Consumption>476</Consumption>
+    <WaterFee>21.84</WaterFee>
+    <WasteFee>26.67</WasteFee>
+    <BasicFee>13.41</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="33">
+    <User>Nykänen</User>
+    <Consumption>586</Consumption>
+    <WaterFee>33.28</WaterFee>
+    <WasteFee>40.64</WasteFee>
+    <BasicFee>13.41</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="34">
+    <User>Bukovski</User>
+    <Consumption>494</Consumption>
+    <WaterFee>24.96</WaterFee>
+    <WasteFee>30.48</WasteFee>
+    <BasicFee>13.41</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="34">
+    <User>Nykänen</User>
+    <Consumption>608</Consumption>
+    <WaterFee>30.16</WaterFee>
+    <WasteFee>36.83</WasteFee>
+    <BasicFee>13.41</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="35">
+    <User>Bukovski</User>
+    <Consumption>515</Consumption>
+    <WaterFee>21.21</WaterFee>
+    <WasteFee>26.46</WasteFee>
+    <BasicFee>15.44</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="35">
+    <User>Nykänen</User>
+    <Consumption>638</Consumption>
+    <WaterFee>31.31</WaterFee>
+    <WasteFee>39.06</WasteFee>
+    <BasicFee>15.43</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="36">
+    <User>Bukovski</User>
+    <Consumption>533</Consumption>
+    <WaterFee>81.32</WaterFee>
+    <WasteFee>100.05</WasteFee>
+    <BasicFee>52.04</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="36">
+    <User>Nykänen</User>
+    <Consumption>656</Consumption>
+    <WaterFee>103.93</WaterFee>
+    <WasteFee>127.9</WasteFee>
+    <BasicFee>52.04</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="38">
+    <User>Bukovski</User>
+    <Consumption>544</Consumption>
+    <WaterFee>18.18</WaterFee>
+    <WasteFee>22.68</WasteFee>
+    <BasicFee>10.29</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="38">
+    <User>Nykänen</User>
+    <Consumption>665</Consumption>
+    <WaterFee>14.14</WaterFee>
+    <WasteFee>17.64</WasteFee>
+    <BasicFee>10.29</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="39">
+    <User>Bukovski</User>
+    <Consumption>564</Consumption>
+    <WaterFee>21.21</WaterFee>
+    <WasteFee>26.46</WasteFee>
+    <BasicFee>15.435</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="39">
+    <User>Nykänen</User>
+    <Consumption>692</Consumption>
+    <WaterFee>28.28</WaterFee>
+    <WasteFee>35.28</WasteFee>
+    <BasicFee>15.44</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="40">
+    <User>Bukovski</User>
+    <Consumption>581</Consumption>
+    <WaterFee>24.75</WaterFee>
+    <WasteFee>30.87</WasteFee>
+    <BasicFee>15.44</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="40">
+    <User>Nykänen</User>
+    <Consumption>709</Consumption>
+    <WaterFee>24.74</WaterFee>
+    <WasteFee>30.87</WasteFee>
+    <BasicFee>15.44</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="41">
+    <User>Bukovski</User>
+    <Consumption>625</Consumption>
+    <WaterFee>25.73</WaterFee>
+    <WasteFee>32.09</WasteFee>
+    <BasicFee>16.11</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="41">
+    <User>Nykänen</User>
+    <Consumption>753</Consumption>
+    <WaterFee>25.72</WaterFee>
+    <WasteFee>32.1</WasteFee>
+    <BasicFee>16.11</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="42">
+    <User>Bukovski</User>
+    <Consumption>652</Consumption>
+    <WaterFee>22.05</WaterFee>
+    <WasteFee>27.51</WasteFee>
+    <BasicFee>16.11</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="42">
+    <User>Nykänen</User>
+    <Consumption>788</Consumption>
+    <WaterFee>29.4</WaterFee>
+    <WasteFee>36.68</WasteFee>
+    <BasicFee>16.11</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="43">
+    <User>Bukovski</User>
+    <Consumption>670</Consumption>
+    <WaterFee>141.93</WaterFee>
+    <WasteFee>177.07</WasteFee>
+    <BasicFee>81.62</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="43">
+    <User>Nykänen</User>
+    <Consumption>800</Consumption>
+    <WaterFee>149.08</WaterFee>
+    <WasteFee>185.99</WasteFee>
+    <BasicFee>81.62</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="44">
+    <User>Bukovski</User>
+    <Consumption>679</Consumption>
+    <WaterFee>12.6</WaterFee>
+    <WasteFee>15.72</WasteFee>
+    <BasicFee>8.06</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="44">
+    <User>Nykänen</User>
+    <Consumption>811</Consumption>
+    <WaterFee>15.75</WaterFee>
+    <WasteFee>19.65</WasteFee>
+    <BasicFee>8.06</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="45">
+    <User>Bukovski</User>
+    <Consumption>707</Consumption>
+    <WaterFee>27.3</WaterFee>
+    <WasteFee>34.06</WasteFee>
+    <BasicFee>16.11</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="45">
+    <User>Nykänen</User>
+    <Consumption>842</Consumption>
+    <WaterFee>30.45</WaterFee>
+    <WasteFee>37.99</WasteFee>
+    <BasicFee>16.11</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="46">
+    <User>Bukovski</User>
+    <Consumption>733</Consumption>
+    <WaterFee>28.08</WaterFee>
+    <WasteFee>34.84</WasteFee>
+    <BasicFee>16.52</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="46">
+    <User>Nykänen</User>
+    <Consumption>869</Consumption>
+    <WaterFee>30.24</WaterFee>
+    <WasteFee>37.52</WasteFee>
+    <BasicFee>16.51</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="47">
+    <User>Bukovski</User>
+    <Consumption>760</Consumption>
+    <WaterFee>27</WaterFee>
+    <WasteFee>33.5</WasteFee>
+    <BasicFee>16.52</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="47">
+    <User>Nykänen</User>
+    <Consumption>901</Consumption>
+    <WaterFee>31.32</WaterFee>
+    <WasteFee>38.86</WasteFee>
+    <BasicFee>16.51</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="48">
+    <User>Bukovski</User>
+    <Consumption>772</Consumption>
+    <WaterFee>108.96</WaterFee>
+    <WasteFee>135.48</WasteFee>
+    <BasicFee>65.64</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="48">
+    <User>Nykänen</User>
+    <Consumption>926</Consumption>
+    <WaterFee>134.73</WaterFee>
+    <WasteFee>167.49</WasteFee>
+    <BasicFee>65.63</BasicFee>
+    <Balanced>true</Balanced>
+  </Users>
+  <Users Id="49">
+    <User>Bukovski</User>
+    <Consumption>781</Consumption>
+    <WaterFee>14.04</WaterFee>
+    <WasteFee>17.42</WasteFee>
+    <BasicFee>8.26</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="49">
+    <User>Nykänen</User>
+    <Consumption>937</Consumption>
+    <WaterFee>16.2</WaterFee>
+    <WasteFee>20.1</WasteFee>
+    <BasicFee>8.26</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="50">
+    <User>Bukovski</User>
+    <Consumption>808</Consumption>
+    <WaterFee>27</WaterFee>
+    <WasteFee>33.5</WasteFee>
+    <BasicFee>16.52</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <Users Id="50">
+    <User>Nykänen</User>
+    <Consumption>971</Consumption>
+    <WaterFee>34.56</WaterFee>
+    <WasteFee>42.88</WasteFee>
+    <BasicFee>16.51</BasicFee>
+    <Balanced>false</Balanced>
+  </Users>
+  <UserNames Name="Bukovski">
+    <StartConsumption>0</StartConsumption>
+  </UserNames>
+  <UserNames Name="Nykänen">
+    <StartConsumption>0</StartConsumption>
+  </UserNames>
+  <ConfigFee End="2007-12-31T00:00:00+02:00">
+    <WaterFee>1.04</WaterFee>
+    <WasteFee>1.34</WasteFee>
+    <VAT>22</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2008-01-01T00:00:00+02:00" End="2008-12-31T00:00:00+02:00">
+    <WaterFee>1.06</WaterFee>
+    <WasteFee>1.36</WasteFee>
+    <VAT>22</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2009-01-01T00:00:00+02:00" End="2009-12-31T00:00:00+02:00">
+    <WaterFee>1.08</WaterFee>
+    <WasteFee>1.38</WasteFee>
+    <VAT>22</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2010-01-01T00:00:00+02:00" End="2010-06-30T00:00:00+03:00">
+    <WaterFee>1.06</WaterFee>
+    <WasteFee>1.34</WasteFee>
+    <VAT>22</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2010-07-01T00:00:00+03:00" End="2010-12-31T00:00:00+02:00">
+    <WaterFee>1.06</WaterFee>
+    <WasteFee>1.34</WasteFee>
+    <VAT>23</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2011-01-01T00:00:00+02:00" End="2011-12-31T00:00:00+02:00">
+    <WaterFee>1.06</WaterFee>
+    <WasteFee>1.33</WasteFee>
+    <VAT>23</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2012-01-01T00:00:00+02:00" End="2012-12-31T00:00:00+02:00">
+    <WaterFee>1.04</WaterFee>
+    <WasteFee>1.27</WasteFee>
+    <VAT>23</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2013-01-01T00:00:00+02:00" End="2013-12-31T00:00:00+02:00">
+    <WaterFee>1.01</WaterFee>
+    <WasteFee>1.26</WasteFee>
+    <VAT>24</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2014-01-01T00:00:00+02:00" End="2014-12-31T00:00:00+02:00">
+    <WaterFee>1.05</WaterFee>
+    <WasteFee>1.31</WasteFee>
+    <VAT>24</VAT>
+  </ConfigFee>
+  <ConfigFee Begin="2015-01-01T00:00:00+02:00">
+    <WaterFee>1.08</WaterFee>
+    <WasteFee>1.34</WasteFee>
+    <VAT>24</VAT>
+  </ConfigFee>
+  <Config>
+    <StartConsumption>0</StartConsumption>
+  </Config>
+</ElectraData>
